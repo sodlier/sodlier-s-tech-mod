@@ -1,0 +1,16 @@
+[
+{
+  "modid": "stm",
+  "name": "Sodlier's Tech Mod",
+  "description": "random shit that comes to my head (i am mentally insane)",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["sodlier"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
